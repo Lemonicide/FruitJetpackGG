@@ -12,6 +12,6 @@ A game about a rocket in space gathering fruits!
 - SwiftUI
 
 ## Team members 
-- [Diego Moreno] (https://github.com/Dmoiz)
-- [Osasu Sánchez] (https://github.com/osasusan)
-- [Abigail Dominguez] (https://github.com/abbydomi)
+- [Diego Moreno](https://github.com/Dmoiz)
+- [Osasu Sánchez](https://github.com/osasusan)
+- [Abigail Dominguez](https://github.com/abbydomi)
